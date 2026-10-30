@@ -1,0 +1,12 @@
+# Baza de date dezarhivata (46MB) - se regenereaza din ASCAD.zip la rulare
+ASCAD.h5
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Sistem
+.DS_Store
